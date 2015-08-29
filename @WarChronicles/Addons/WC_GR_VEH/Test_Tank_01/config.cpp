@@ -1,0 +1,5 @@
+#include "basicdefines_A3.hpp"
+#include "CfgPatches.hpp"
+#include "CfgFactionClasses.hpp"
+#include "CfgVehicleClasses.hpp"
+#include "CfgVehicles.hpp"
